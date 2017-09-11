@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Moi aussi je peut le faire !!!
+=======
 Moi aussi je le faire !!!
 Trop surpuissant!
+>>>>>>> 10025333fe2c0d33ae545bb00233ce75ff413c49
