@@ -1,2 +1,7 @@
 BONJOUR Milou : AM
+<<<<<<< HEAD
+
+Salut Clemy!<<<<Tu va bien?
+=======
 Je prefere Idefix!
+>>>>>>> 0e7b87e6db46fbaf9a66f1aed5ddf7954c4dd6d7
